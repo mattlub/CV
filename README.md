@@ -1,6 +1,8 @@
 ## CV - Matt Lubel
 
-description
+I am a full-stack javascript developer who loves to write well thought-out, readable and elegant code to produce solutions to solve real-world problems.
+
+I love to learn new technologies and am looking for a role where I can develop my skills and work with other like-minded people.
 
 ---
 
