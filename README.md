@@ -13,13 +13,14 @@ I have been working on a variety of projects, using the following technologies:
 | Languages etc | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 | --- | --- | --- | --- | --- |
 | Javascript| Hapi.js, Express.js      | Tape/Tap  | Git          | PostgreSQL|
-| Node.js   | React.js                 | QUnit     | Linux CL     |    |
-| CSS3      | GreenSock Animation Program          |           | Heroku       | |
-| Python    | socket.io                   |           |  Amazon S3   | |
-| Elm       | Django         | | | |
+| Node.js   | React.js                 | QUnit     | Linux CL     | MongoDB   |
+| CSS3      | GSAP                     |           | Heroku       | |
+| Elm       | socket.io                |           |              | |
+| Python    |                          | | | |
 
 
 ### PROJECTS
+- [Nazareth Open Tourism Platform](https://github.com/foundersandcoders/open-tourism-platform)- An open platform to facilitate the creation of apps to promote local tourism and business in Nazareth.
 - [Nazareth Events](https://github.com/FACN1/nazareth-events)- An event-listing application I worked on as part of the Nazareth Digital Accelerator, including a platform to allow venues to post events.
 - [Rediscover Your Country](https://github.com/FACN1/re-discover-your-country) - A prototype, produced for Nazarene Tours, for an app to help people find better domestic tour options (in Israel).
 - [Nazareth Nuggets](https://github.com/FACN1/nazareth-nuggets) - An map-based application where you can see user-submitted nuggets of information about sights in Nazareth. 
@@ -44,7 +45,6 @@ I worked on a multi-featured web application used by our clients in the fund man
 
 #### Statistical Modeller, Betgenius (Jul - Aug 2013)
 I worked on creating the company’s ice hockey model, which produced in-play betting odds. This required the rapid development of my research and problem solving skills in order to carry out data manipulation and analysis using R, C# and Microsoft Excel.
-
 
 ---
 
