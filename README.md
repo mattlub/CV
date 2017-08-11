@@ -12,20 +12,19 @@ I have been working on a variety of projects, using the following technologies:
 
 | Languages etc | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 | --- | --- | --- | --- | --- |
-| Javascript| Hapi.js, Express.js      | Tape/Tap  | Git          | PostgreSQL|
-| Node.js   | React.js                 | QUnit     | Linux CL     | MongoDB   |
-| CSS3      | GSAP                     |           | Heroku       | |
-| Elm       | socket.io                |           |              | |
-| Python    |                          | | | |
+| Javascript| Express.js, Hapi.js      | Tape      | Git          | PostgreSQL|
+| Node.js   | socket.io                | QUnit     | Linux CL     | MongoDB & Mongoose  |
+| CSS3      | GSAP                     |           | Heroku       |  |
+| Elm       |                 |           |              |           |
 
 
 ### PROJECTS
 - [Nazareth Open Tourism Platform](https://github.com/foundersandcoders/open-tourism-platform)- An open platform to facilitate the creation of apps to promote local tourism and business in Nazareth.
+- [Easy Poll](https://github.com/FAC10/easy-poll)- A quick poll application I created while learning Elm.
 - [Nazareth Events](https://github.com/FACN1/nazareth-events)- An event-listing application I worked on as part of the Nazareth Digital Accelerator, including a platform to allow venues to post events.
-- [Rediscover Your Country](https://github.com/FACN1/re-discover-your-country) - A prototype, produced for Nazarene Tours, for an app to help people find better domestic tour options (in Israel).
 - [Nazareth Nuggets](https://github.com/FACN1/nazareth-nuggets) - An map-based application where you can see user-submitted nuggets of information about sights in Nazareth. 
-- [giphy TV](https://github.com/mattlub/giphy-tv) - A customisable gif dashboard.
 - [js Pictionary](https://github.com/mattlub/socket-pictionary) - An online pictionary game I created using web sockets.
+- [giphy TV](https://github.com/mattlub/giphy-tv) - A customisable gif dashboard.
 
 ---
 
@@ -33,18 +32,22 @@ I have been working on a variety of projects, using the following technologies:
 
 <img alt="Founders and Coders" src="https://github.com/mattlub/CV/blob/master/assets/fac.png" width="240">
 
-#### 16-Week Intensive Web Development Course, Nazareth (Feb - June 2017)
+#### 16-Week Web Development Course, Nazareth (Feb - June 2017)
 - As well as learning the skills outlined above, I learned __test driven development__, __agile methodologies__ and __pair programming.__
 
-<img alt="Huguenots" src="https://github.com/mattlub/CV/blob/master/assets/hugenots.png" width="240">
+#### Teaching the course in Nazareth (July - August 2017)
+- I was a mentor for the next cohort of Founders and Coders in Nazareth, and helped facilitate the running of the course.
+- I was also working at the same time on the [Nazareth Open Tourism Platform](https://github.com/foundersandcoders/open-tourism-platform), which involved building a robust permissioned API.
+
+<img alt="Huguenots [image not available]" src="https://github.com/mattlub/CV/blob/master/assets/hugenots.png" width="240">
 
 #### Junior Developer, Huguenots (Jun - Oct 2016)
-I worked on a multi-featured web application used by our clients in the fund management industry. I was working with Python, Django and Django REST framework for the back-end and HTML, CSS and various Javascript libraries for the front-end. 
+- I worked on a multi-featured web application used by our clients in the fund management industry. I was working with Python, Django and Django REST framework for the back-end and HTML, CSS and various Javascript libraries for the front-end. 
 
 <img alt="Betgenius" src="https://github.com/mattlub/CV/blob/master/assets/betgenius.png" width="240">
 
 #### Statistical Modeller, Betgenius (Jul - Aug 2013)
-I worked on creating the company’s ice hockey model, which produced in-play betting odds. This required the rapid development of my research and problem solving skills in order to carry out data manipulation and analysis using R, C# and Microsoft Excel.
+- I worked on creating the company’s ice hockey model, which produced in-play betting odds. This required data manipulation and analysis using R, C# and Microsoft Excel.
 
 ---
 
