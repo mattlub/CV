@@ -8,11 +8,15 @@ I love to learn new technologies and am looking for a role where I can develop m
 
 ### SKILLS
 
-Front-end: Javascript/React/Redux, HTML5 + CSS3, Elm
-Back-end: Node.js, Express
-Testing: Jest, Mocha, Chai, Tape
-Databases: Postgres, MongoDB, Mongoose
-Other skills: Git, Linux CL, TDD, agile, pair-programming
+**Front-end:** Javascript/React/Redux, HTML5 + CSS3, Elm
+
+**Back-end:** Node.js, Express
+
+**Testing:** Jest, Mocha, Chai, Tape
+
+**Databases:** Postgres, MongoDB, Mongoose
+
+**Other skills:** Git, Linux CL, TDD, agile, pair-programming
 
 ### PROJECTS
 - [Nazareth Open Tourism Platform](https://github.com/foundersandcoders/open-tourism-platform)- An open platform to facilitate the creation of apps to promote local tourism and business in Nazareth.
