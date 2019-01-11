@@ -1,73 +1,59 @@
 ## CV - Matt Lubel
 
-I am a full-stack javascript developer who loves to write well thought-out, readable and elegant code to produce solutions to solve real-world problems.
-
-I love to learn new technologies and am looking for a role where I can develop my skills and work with other like-minded people.
+I am a conscientious full-stack Javascript developer who enjoys planning and writing well-structured applications. I am interested in good UX, solutions to real-world problems in the community, and teaching/education.
 
 ---
 
 ### SKILLS
 
-**Front-end:** Javascript/React/Redux, HTML5 + CSS3, Elm
+React, Redux, HTML5 + CSS3, Node
 
-**Back-end:** Node.js, Express
+BDD and thorough automated testing to minimise manual testing
 
-**Testing:** Jest, Mocha, Chai, Tape
+idea scoping and AGILE workflow
 
-**Databases:** Postgres, MongoDB, Mongoose
-
-**Other skills:** Git, Linux CL, TDD, agile, pair-programming
-
-### PROJECTS
-- [Nazareth Open Tourism Platform](https://github.com/foundersandcoders/open-tourism-platform)- An open platform to facilitate the creation of apps to promote local tourism and business in Nazareth.
-- [Easy Poll](https://github.com/FAC10/easy-poll)- A quick poll application I created while learning Elm.
-- [Nazareth Events](https://github.com/FACN1/nazareth-events)- An event-listing application I worked on as part of the Nazareth Digital Accelerator, including a platform to allow venues to post events.
-- [Nazareth Nuggets](https://github.com/FACN1/nazareth-nuggets) - An map-based application where you can see user-submitted nuggets of information about sights in Nazareth. 
-- [js Pictionary](https://github.com/mattlub/socket-pictionary) - An online pictionary game I created using web sockets.
-- [giphy TV](https://github.com/mattlub/giphy-tv) - A customisable gif dashboard.
+serial git interactive rebaser
 
 ---
 
 ### EXPERIENCE
 
-<img alt="Founders and Coders" src="https://github.com/mattlub/CV/blob/master/assets/fac.png" width="240">
+#### Code Academy Mentor, Gaza Sky Geeks, Khalil (Palestine) - Nov 2018 - Dec 2018
+I was a mentor during the first 8 weeks of a full-stack Javascript course, teaching in the classroom and updating materials. The includes topics such as HTML+CSS, testing, Node, Postgres, and authentication.
 
-#### 16-Week Web Development Course, Nazareth (Feb - June 2017)
-- As well as learning the skills outlined above, I learned __test driven development__, __agile methodologies__ and __pair programming.__
+#### Junior Developer, Verkstedt, Berlin - Nov 2017 - Aug 2018
+I worked as part of a small team on various projects and services, mainly for a large pharmaceutical company client. Projects included: 
+- a full-featured checkout-flow app, using React, Redux, Redux-saga & Redux-form.
+- an email service which would fetch tasks from a queue, fetch email templates, and send emails, using Node, RabbitMQ, Contentful.
+- a test runner and automated test suites for testing live websites, using BrowserStack and Selenium.
+- the AMP product page.
 
-#### Teaching the course in Nazareth (July - August 2017)
-- I was a mentor for the next cohort of Founders and Coders in Nazareth, and helped facilitate the running of the course.
-- I was also working at the same time on the [Nazareth Open Tourism Platform](https://github.com/foundersandcoders/open-tourism-platform), which involved building a robust permissioned API.
+#### Founder and Coders, Nazareth — Feb - Sep 2017
+- I participated in a tuition-free 16-week full-stack Javascript bootcamp, learning core technologies (Vanilla JS, Node, Postgres) and TDD. We also have a strong focus on collaborative learning, open source and community engagement.
+- I went back to Nazareth in July to help coordinate and mentor the next iteration of the course, while working on the Nazareth Open Tourism Platform and QA’ing other projects. 
 
-<img alt="Huguenots [image not available]" src="https://github.com/mattlub/CV/blob/master/assets/hugenots.png" width="240">
-
-#### Junior Developer, Huguenots (Jun - Oct 2016)
-- I worked on a multi-featured web application used by our clients in the fund management industry. I was working with Python, Django and Django REST framework for the back-end and HTML, CSS and various Javascript libraries for the front-end. 
-
-<img alt="Betgenius" src="https://github.com/mattlub/CV/blob/master/assets/betgenius.png" width="240">
-
-#### Statistical Modeller, Betgenius (Jul - Aug 2013)
-- I worked on creating the company’s ice hockey model, which produced in-play betting odds. This required data manipulation and analysis using R, C# and Microsoft Excel.
+#### Junior Software Developer, Huguenot Services Ltd., London — Jun - Oct 2016
+I worked on a multi-featured web application used by our clients in the fund management industry. I was working with Python, Django and front-end Javascript libraries.
 
 ---
 
 ### EDUCATION
+
 #### University of Cambridge, 2011 - 2014
 BA in Mathematics (2:1)
 
 Areas of interest: Graph Theory, Number Theory, Number Fields, Statistics, MATLAB
 
-#### Merchant Taylors' School (A Levels)
-Maths (A*) Further Maths (A*) Physics (A*) Spanish (A), Art (A at AS Level)
-
 ---
+
 ### LINKS
 
 [LinkedIn](https://www.linkedin.com/in/matt-lubel-470484ba/) | [Codewars](https://www.codewars.com/users/mattlub)
 
 ---
+
 ### INTERESTS
-* Table Tennis and other racket sports
-* Life Drawing
+* Learning Languages
+* Reading out loud
 * Music Visualisation
 * Juggling
